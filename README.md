@@ -1,4 +1,4 @@
-[![MasterHead]( https://cdn.wallpapersafari.com/58/5/y6JTZO.gif](https//VIJAYKUMAR-S-H.io)
+
 <h1 align="center">Hi 👋, I'm VIJAY GOWDA</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gizmodo.com.au/wp-content/uploads/2017/09/12/pwl9mwg0qu5vdagwstde.gif?quality=75&w=640&h=360&crop=1.gif">
