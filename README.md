@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **python datascience**
 
-- 📫 How to reach me **vijaykumarhadimani77@gmail.com**
+- 📫 How to reach me **Linkdin(Vijaykumar S H)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
