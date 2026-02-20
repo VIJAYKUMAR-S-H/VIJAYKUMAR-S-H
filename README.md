@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm VIJAY GOWDA</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi 👋, I'm VIJAYKUMAR SH</h1>
+<h3 align="center">A passionate software developer|AI + MERN Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://gizmodo.com.au/wp-content/uploads/2017/09/12/pwl9mwg0qu5vdagwstde.gif?quality=75&w=640&h=360&crop=1.gif">
 
 
@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python datascience**
+- 🌱 I’m currently learning **AI and Automation**
 
 - 📫 How to reach me **Linkdin(Vijaykumar S H)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijaykumar s h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaykumar s h" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_vijay_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_vijay_h" height="30" width="40" /></a>
+<a href="https://instagram.com/Vijayykumar.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_vijay_h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
